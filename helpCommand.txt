@@ -1,0 +1,6 @@
+1.code indentation
+left indent ctrl+]
+to remove indent ctrl+[
+select and tab for indentation
+
+2.ctrl+u to view sourc code

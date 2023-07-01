@@ -1,0 +1,26 @@
+install git scm software for managing git repos
+1.create folder any name
+2.do gitbash there by right click
+3.open that folder by code .
+4.open github.com
+5.create a respositary there
+6.finish other details
+7.click on code. dropdown
+8.copy https url
+9.go back to your folder in console
+10. run git init
+11. run git remote add origin {add that copied url here}
+Stage,commit,push three step to send code on github.
+12. run stage command =>git add .
+13. run commmit command =>git commit -m "my first project"
+
+it will ask your github account email and github name(can be seen in your git hub account url)
+Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
+
+
+14. run push command=> git push origin master
+
+first time it will ask you to authenticate
+ if you see master =>master it means code pushed
+
