@@ -4,3 +4,11 @@ to remove indent ctrl+[
 select and tab for indentation
 
 2.ctrl+u to view sourc code
+
+3.ctrl+j chrome download window
+
+4.ctrl+wheel (font size increase and decrease)
+
+5.window+printScreen key
+
+6.cls for clear screen.
